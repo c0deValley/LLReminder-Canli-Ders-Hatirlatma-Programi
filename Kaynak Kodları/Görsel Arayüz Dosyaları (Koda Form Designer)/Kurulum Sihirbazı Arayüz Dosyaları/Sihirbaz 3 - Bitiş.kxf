@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form2">
+	<properties>
+		<property name="Left" vt="Int16">308</property>
+		<property name="Top" vt="Int16">152</property>
+		<property name="Width" vt="Int16">586</property>
+		<property name="Height" vt="Int16">429</property>
+		<property name="Caption" vt="UTF8String">LLReminder Црrenci Versiyonu 1.0 Kurulum Sihirbazэ</property>
+		<property name="Color" vt="Int32">2893339</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Position" vt="Ident">poDesktopCenter</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="Description" vt="String">A standard Windows Form.</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TALabel" name="Label1">
+			<properties>
+				<property name="Left" vt="Int16">178</property>
+				<property name="Top" vt="Int8">32</property>
+				<property name="Width" vt="Int16">378</property>
+				<property name="Height" vt="Int8">31</property>
+				<property name="Caption" vt="UTF8String">LLReminder Kurulumu Tamamlandэ.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-19</property>
+				<property name="Font.Name" vt="String">Arial Black</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label2">
+			<properties>
+				<property name="Left" vt="Int16">178</property>
+				<property name="Top" vt="Int8">90</property>
+				<property name="Width" vt="Int16">297</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">LLReminder programэ bilgisayarэnэza kuruldu.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label3">
+			<properties>
+				<property name="Left" vt="Int16">178</property>
+				<property name="Top" vt="Int8">108</property>
+				<property name="Width" vt="Int16">284</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">Artэk programэ kullanmaya baюlayabilirsiniz.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label6">
+			<properties>
+				<property name="Left" vt="Int16">178</property>
+				<property name="Top" vt="Int16">153</property>
+				<property name="Width" vt="Int16">349</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">Programэ kullanmadan цnce Hэzlэ Baюlangэз Rehberini</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button2">
+			<properties>
+				<property name="Left" vt="Int16">390</property>
+				<property name="Top" vt="Int16">320</property>
+				<property name="Width" vt="Int16">139</property>
+				<property name="Height" vt="Int8">33</property>
+				<property name="Caption" vt="String">Kapat</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="Color" vt="Int32">7687183</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic1">
+			<properties>
+				<property name="Left" vt="Int8">0</property>
+				<property name="Top" vt="Int8">0</property>
+				<property name="Width" vt="Int16">156</property>
+				<property name="Height" vt="Int16">390</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Users\ahmet\Desktop\foto.jpg</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label4">
+			<properties>
+				<property name="Left" vt="Int16">178</property>
+				<property name="Top" vt="Int16">174</property>
+				<property name="Width" vt="Int16">166</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">okumanэzэ tavsiye ederiz.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TACheckbox" name="chechkbox">
+			<properties>
+				<property name="Left" vt="Int16">192</property>
+				<property name="Top" vt="Int16">224</property>
+				<property name="Width" vt="Int8">17</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Checked" vt="True">True</property>
+				<property name="Color" vt="Ident">clWhite</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="State" vt="Ident">cbChecked</property>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="CtrlStyle" vt="Int32">1342242819</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label5">
+			<properties>
+				<property name="Left" vt="Int16">214</property>
+				<property name="Top" vt="Int16">224</property>
+				<property name="Width" vt="Int16">183</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">Hэzlэ Baюlangэз Rehberini aз</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TACheckbox" name="Checkbox1">
+			<properties>
+				<property name="Left" vt="Int16">192</property>
+				<property name="Top" vt="Int16">248</property>
+				<property name="Width" vt="Int8">17</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Checked" vt="True">True</property>
+				<property name="Color" vt="Ident">clWhite</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="State" vt="Ident">cbChecked</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="CtrlStyle" vt="Int32">1342242819</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label7">
+			<properties>
+				<property name="Left" vt="Int16">214</property>
+				<property name="Top" vt="Int16">248</property>
+				<property name="Width" vt="Int16">202</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">LLReminder programэnэ зalэюtэr</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Arial</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>

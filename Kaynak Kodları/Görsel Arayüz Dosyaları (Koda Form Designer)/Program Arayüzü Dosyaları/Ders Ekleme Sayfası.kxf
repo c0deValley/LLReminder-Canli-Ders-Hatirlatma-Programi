@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form2">
+	<properties>
+		<property name="Left" vt="Int16">350</property>
+		<property name="Top" vt="Int16">135</property>
+		<property name="Width" vt="Int16">632</property>
+		<property name="Height" vt="Int16">489</property>
+		<property name="Caption" vt="String">Ders Ekle | LLReminder</property>
+		<property name="Color" vt="Int32">2893339</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Position" vt="Ident">poDesktopCenter</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="Description" vt="String">A standard Windows Form.</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAGroup" name="Group1">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int8">88</property>
+				<property name="Width" vt="Int16">313</property>
+				<property name="Height" vt="Int8">73</property>
+				<property name="CtrlStyle" vt="Int32">1342308359</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">Trenda</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components>
+				<object type="TALabel" name="Label1">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">13</property>
+						<property name="Width" vt="Int8">70</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Caption" vt="UTF8String">Ders Adэ</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWhite</property>
+						<property name="Font.Height" vt="Int8">-17</property>
+						<property name="Font.Name" vt="String">Trenda Semibold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">0</property>
+						<property name="HaveVariable" vt="False">False</property>
+						<property name="CtrlStyle" vt="Int32">1342308608</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set"/>
+					</properties>
+					<components/>
+				</object>
+				<object type="TAInput" name="Input1">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">40</property>
+						<property name="Width" vt="Int16">137</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Color" vt="Ident">clWhite</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clBlack</property>
+						<property name="Font.Height" vt="Int8">-13</property>
+						<property name="Font.Name" vt="String">Trenda Bold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">1</property>
+						<property name="Text" vt="String">Input1</property>
+						<property name="CtrlStyle" vt="Int32">1342374016</property>
+						<property name="CtrlExStyle" vt="Int16">512</property>
+						<property name="Resizing" vt="Set">DockHeight</property>
+					</properties>
+					<components/>
+				</object>
+				<object type="TALabel" name="Label2">
+					<properties>
+						<property name="Left" vt="Int16">170</property>
+						<property name="Top" vt="Int8">13</property>
+						<property name="Width" vt="Int8">80</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Caption" vt="UTF8String">Ders Tьrь</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWhite</property>
+						<property name="Font.Height" vt="Int8">-17</property>
+						<property name="Font.Name" vt="String">Trenda Semibold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">2</property>
+						<property name="HaveVariable" vt="False">False</property>
+						<property name="CtrlStyle" vt="Int32">1342308608</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set"/>
+					</properties>
+					<components/>
+				</object>
+				<object type="TACombo" name="Combo1">
+					<properties>
+						<property name="Left" vt="Int16">170</property>
+						<property name="Top" vt="Int8">40</property>
+						<property name="Width" vt="Int16">134</property>
+						<property name="Height" vt="Int8">25</property>
+						<property name="Color" vt="Ident">clWhite</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clBlack</property>
+						<property name="Font.Height" vt="Int8">-13</property>
+						<property name="Font.Name" vt="String">Trenda Bold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ItemHeight" vt="Int8">16</property>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">3</property>
+						<property name="Text" vt="String">ZOOM ID ve PASS</property>
+						<property name="Items.Strings" vt="List">
+							<list>
+								<li vt="String">ZOOM URL</li>
+							</list>
+						</property>
+						<property name="CtrlStyle" vt="Int32">1342374466</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set">DockHeight</property>
+					</properties>
+					<components/>
+				</object>
+			</components>
+		</object>
+		<object type="TAGroup" name="Group2">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int16">168</property>
+				<property name="Width" vt="Int16">313</property>
+				<property name="Height" vt="Int16">129</property>
+				<property name="CtrlStyle" vt="Int32">1342308359</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">Trenda</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components>
+				<object type="TALabel" name="Label3">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">16</property>
+						<property name="Width" vt="Int8">72</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Caption" vt="String">Zoom ID</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWhite</property>
+						<property name="Font.Height" vt="Int8">-17</property>
+						<property name="Font.Name" vt="String">Trenda Semibold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">0</property>
+						<property name="HaveVariable" vt="False">False</property>
+						<property name="CtrlStyle" vt="Int32">1342308608</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set"/>
+					</properties>
+					<components/>
+				</object>
+				<object type="TAInput" name="Input2">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">40</property>
+						<property name="Width" vt="Int16">137</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Color" vt="Ident">clWhite</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clBlack</property>
+						<property name="Font.Height" vt="Int8">-13</property>
+						<property name="Font.Name" vt="String">Trenda Bold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">1</property>
+						<property name="Text" vt="String">id</property>
+						<property name="CtrlStyle" vt="Int32">1342382208</property>
+						<property name="CtrlExStyle" vt="Int16">512</property>
+						<property name="Resizing" vt="Set">DockHeight</property>
+					</properties>
+					<components/>
+				</object>
+				<object type="TALabel" name="Label4">
+					<properties>
+						<property name="Left" vt="Int16">167</property>
+						<property name="Top" vt="Int8">16</property>
+						<property name="Width" vt="Int8">122</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Caption" vt="UTF8String">Password/Юifre</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWhite</property>
+						<property name="Font.Height" vt="Int8">-17</property>
+						<property name="Font.Name" vt="String">Trenda Semibold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">2</property>
+						<property name="HaveVariable" vt="False">False</property>
+						<property name="CtrlStyle" vt="Int32">1342308608</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set"/>
+					</properties>
+					<components/>
+				</object>
+				<object type="TAInput" name="Input3">
+					<properties>
+						<property name="Left" vt="Int16">167</property>
+						<property name="Top" vt="Int8">40</property>
+						<property name="Width" vt="Int16">137</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Color" vt="Ident">clWhite</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clBlack</property>
+						<property name="Font.Height" vt="Int8">-13</property>
+						<property name="Font.Name" vt="String">Trenda Bold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">3</property>
+						<property name="Text" vt="String">pass</property>
+						<property name="CtrlStyle" vt="Int32">1342374016</property>
+						<property name="CtrlExStyle" vt="Int16">512</property>
+						<property name="Resizing" vt="Set">DockHeight</property>
+					</properties>
+					<components/>
+				</object>
+				<object type="TALabel" name="Label5">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">68</property>
+						<property name="Width" vt="Int16">241</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Caption" vt="UTF8String">Zoom URL (Yoksa boю bэrakэn)</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clWhite</property>
+						<property name="Font.Height" vt="Int8">-17</property>
+						<property name="Font.Name" vt="String">Trenda Semibold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">4</property>
+						<property name="HaveVariable" vt="False">False</property>
+						<property name="CtrlStyle" vt="Int32">1342308608</property>
+						<property name="CtrlExStyle" vt="Int8">0</property>
+						<property name="Resizing" vt="Set"/>
+					</properties>
+					<components/>
+				</object>
+				<object type="TAInput" name="Input4">
+					<properties>
+						<property name="Left" vt="Int8">10</property>
+						<property name="Top" vt="Int8">92</property>
+						<property name="Width" vt="Int16">294</property>
+						<property name="Height" vt="Int8">24</property>
+						<property name="Color" vt="Ident">clWhite</property>
+						<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+						<property name="Font.Color" vt="Ident">clBlack</property>
+						<property name="Font.Height" vt="Int8">-13</property>
+						<property name="Font.Name" vt="String">Trenda Bold</property>
+						<property name="Font.Style" vt="Set"/>
+						<property name="ParentFont" vt="False">False</property>
+						<property name="TabOrder" vt="Int8">5</property>
+						<property name="Text" vt="String">url</property>
+						<property name="CtrlStyle" vt="Int32">1342374016</property>
+						<property name="CtrlExStyle" vt="Int16">512</property>
+						<property name="Resizing" vt="Set">DockHeight</property>
+					</properties>
+					<components/>
+				</object>
+			</components>
+		</object>
+		<object type="TAPic" name="Pic1">
+			<properties>
+				<property name="Left" vt="Int8">98</property>
+				<property name="Top" vt="Int16">304</property>
+				<property name="Width" vt="Int16">160</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="Cursor" vt="Ident">crHandPoint</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="UTF8String">C:\Users\ahmet\Desktop\Yeni klasцr\yeni arayьz\dersikaydet.jpg</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+				<property name="Stretch" vt="Ident">sRealSize</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label6">
+			<properties>
+				<property name="Left" vt="Int16">246</property>
+				<property name="Top" vt="Int8">16</property>
+				<property name="Width" vt="Int8">124</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="Caption" vt="String">Ders Ekleme</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-21</property>
+				<property name="Font.Name" vt="String">Trenda Bold</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAEdit" name="Edit1">
+			<properties>
+				<property name="Left" vt="Int16">365</property>
+				<property name="Top" vt="Int8">120</property>
+				<property name="Width" vt="Int16">217</property>
+				<property name="Height" vt="Int16">305</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clBlack</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Black</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="Lines.Strings" vt="List">
+					<list>
+						<li vt="String">[ORNEK DERS]</li>
+						<li vt="String">id=123456789</li>
+						<li vt="String">pass=passw0rd</li>
+						<li vt="String">url=ornekurl.com</li>
+					</list>
+				</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="CtrlStyle" vt="Int32">1344477380</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label7">
+			<properties>
+				<property name="Left" vt="Int16">413</property>
+				<property name="Top" vt="Int8">92</property>
+				<property name="Width" vt="Int8">112</property>
+				<property name="Height" vt="Int8">24</property>
+				<property name="Caption" vt="UTF8String">Kayэtlэ Dersler</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-17</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label8">
+			<properties>
+				<property name="Left" vt="Int16">142</property>
+				<property name="Top" vt="Int8">41</property>
+				<property name="Width" vt="Int16">331</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="String">Bu sayfadan LLReminder'e yeni dersler ekleyebilirsiniz.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label9">
+			<properties>
+				<property name="Left" vt="Int8">52</property>
+				<property name="Top" vt="Int8">57</property>
+				<property name="Width" vt="Int16">511</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">Ders tьrь kэsmэndan dersin ne юekilde aзэlmasэnэ istediрinizi seзmeniz gerekmektedir.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label10">
+			<properties>
+				<property name="Left" vt="Int8">27</property>
+				<property name="Top" vt="Int16">352</property>
+				<property name="Width" vt="Int16">309</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">Bir derse ait bilgileri deрiюtirmek istiyorsanэz dersin</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label11">
+			<properties>
+				<property name="Left" vt="Int8">27</property>
+				<property name="Top" vt="Int16">368</property>
+				<property name="Width" vt="Int8">4</property>
+				<property name="Height" vt="Int8">4</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label12">
+			<properties>
+				<property name="Left" vt="Int8">27</property>
+				<property name="Top" vt="Int16">384</property>
+				<property name="Width" vt="Int16">287</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">en son girdiрiniz bilgiler sisteme kayэt olacaktэr.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label13">
+			<properties>
+				<property name="Left" vt="Int8">27</property>
+				<property name="Top" vt="Int16">409</property>
+				<property name="Width" vt="Int16">298</property>
+				<property name="Height" vt="Int8">18</property>
+				<property name="Caption" vt="UTF8String">Anasayfaya geri dцnmek iзin kapat butonuna tэklayэn.</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="String">Trenda</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label14">
+			<properties>
+				<property name="Left" vt="Int8">27</property>
+				<property name="Top" vt="Int16">368</property>
+				<property name="Width" vt="Int16">316</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="Caption" vt="UTF8String">adэnэ yazэp yeni bilgileri girin. Bir ders iзin her zaman</property>
+				<property name="Font.Charset" vt="Ident">TURKISH_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWhite</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="String">Trenda Semibold</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">12</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>

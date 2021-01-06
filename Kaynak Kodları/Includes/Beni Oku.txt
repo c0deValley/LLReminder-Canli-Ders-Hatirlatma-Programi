@@ -1,0 +1,1 @@
+Kaynak kodları compile edilirken sorun çıkmaması için bu dizinde yer alan dosyaların kaynak kodları ile aynı dizine koyulması gerekmektedir.
