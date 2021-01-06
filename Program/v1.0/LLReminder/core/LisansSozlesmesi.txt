@@ -1,0 +1,174 @@
+LLReminder, Zoom üzerinden gerçekleşen online ders ve webinar’lara otomatik olarak katılmanızı sağlayan veya öğretmen iseniz derslerinizi otomatik başlatıp tek tık ile yoklama kaydı alabilmenizi sağlayan bir programdır.
+
+LLReminder, pandemi döneminde öğrenci ve öğretmenlerin uzaktan eğitim modeline uyumu konusunda kolaylık sağlamak amacıyla geliştirilmiştir.
+
+LLReminder kullanımına dair gerekli bilgileri Ana Sayfa > Üst Menü > Nasıl Kullanılır kısmından ulaşabilir, online destek almak isterseniz LLReminder.online/destek/ sayfasını ziyaret edebilirsiniz.
+
+İletişim için info@LLReminder.online
+
+LLReminder Öğrenci Versiyonu v1.0.0.1
+
+--------------------=--------------------
+
+LLReminder Yazılım Lisans - Kullanım Sözleşmesi
+
+1. UYARI
+
+Bu Yazılım Lisans Sözleşmesinin ("Sözleşme") hükümlerini kabul etmiyorsanız bu yazılımı kullanamazsınız.Lütfen yazılımı kullanmadan önce bu sözleşmeyi ve LLReminder.online/yasal bağlantısında yer alan diğer koşullarıda dikkatli bir şekilde okuyun. LLReminder Lisanslı Yazılımını yükleyerek bu hüküm ve koşulları kabul ettiğinizi göstermiş olursunuz ve bu sizinle ("Lisans Sahibi") LLReminder ("Lisans Veren") arasındaki bu Sözleşme geçerli kabul edilir.
+
+
+2. TANIMLAR
+
+a)"LLReminder.online": Live Lesson Reminder - Online Ders Hatırlatma otomasyon yazılımının web sitesini ve program geliştiricisini tanımlar.
+b)"YAZILIM": LLReminder yazılımını tanımlar.
+c)"KULLANICI": Telif hakkı LLReminder'e ait olan LLReminder yazılımının lisans haklarını satın alıp kullanan kişiyi tanımlar.
+d)"DENEME SÜRÜMÜ": LLReminder yazılımının lisans haklarını satın almadan izin verilen kullanım süresini (10 gün) tanımlar.
+e)"YAZILIM KULLANMA LİSANSI": LLReminder yazılımını kullanabilmek için gerekli olan lisansı tanımlar.
+f)"CİHAZ": Yazılımın çalıştırıldığı platformdur.
+g)"CİHAZ KİMLİĞİ": LLReminder lisansının oluşturulabilmesi için her makineye özel atanan eşsiz ID değeridir.
+h)"AKTİVASYON KODU": LLReminder yazılımını lisanslamak için gerekli olan ve cihaz kimliğine özel oluşturulan aktivasyon kimliğidir.
+i)"ONLİNE DESTEK": LLReminder.online/destek sayfasından sunulan ücretsiz destek.
+
+
+
+3. SÖZLEŞMENİN KONUSU
+
+Bu sözleşme KULLANICI ve LLReminder.online arasında kullanım lisansı koşullarını belirlemek için hazırlanmıştır. YAZILIM'ı 10 gün boyunca ücretsiz olarak kullanmayı sağlayan münhasır olmayan ücretsiz deneme lisansı için bu sözleşmenin 5. başlık dışındaki başlıklar geçerlidir. YAZILIM'a ait yıllık lisans için 4. başlık dışında tüm sözleşme kapsam dahilindedir.
+
+
+4. MÜNHASIR OLMAYAN ÜCRETSİZ DENEME LİSANSI KOŞULLARI
+
+
+4.1 Ücretsiz Deneme Lisansı
+
+LLReminder.online her bir tekil kullanıcı (CİHAZ) için 10 günlük ücretsiz deneme lisansı sağlar. Bu 10 günlük süre içerisinde KULLANICI'ya YAZILIM'ı kullanma, çalıştırma ve görüntüleme hakkı verilir.
+
+
+4.2 Ücretsiz Deneme Lisansının Niteliği
+YAZILIM bir CİHAZ'a indirildiği zaman otomatik olarak o CİHAZ KİMLİĞİ'ne göre 10 günlük bir deneme süresi oluşturur. Bu deneme süresi YAZILIM tarafından oluşturulduğu için bireysel bir lisanstır. LLReminder.online tarafından KULLANICI'ya herhangi bir AKTİVASYON KODU sunulmaz.
+
+
+4.3 Ücretsiz Deneme Lisansının Kapsamı
+
+YAZILIM'ın kullanma lisansı her zaman işbu sözleşme koşullarına tabidir. Lisans, YAZILIM'ın bu sözleşmede belirtilen hak ve sınırlar çerçevesinde bilgisayara yüklenmesini, çalıştırılmasını, kullanılmasını ve hizmetlerinden yararlanılmasını kapsar. KULLANICI tarafından kullanma lisansı koşullarına, işbu sözleşmeye ve LLReminder.online/yasal adresindeki diğer yasal bilgilendirmelere aykırı eylemlerin gerçekleştirilmesi durumunda LLReminder.online kullanımdan men etme, sözleşmeyi fesh etme ve kullanıcı hizmetlerini durdurma haklarına sahiptir.
+
+KULLANICI:
+- YAZILIM'ı 10 günlük bir süre boyunca sözleşme kapsamı dışına çıkmayacak şekilde istediği şekilde, istediği amaçlar çerçevesinde kullanabilir.
+- LLReminder.online tarafından sunulan ONLİNE DESTEK hizmetinden yararlanabilir.
+- YAZILIM'ın öğrenci veya öğretmen versiyonunu kullanabilir.
+
+KULLANICI:
+- 10 günlük deneme süresini ikinci kez kullanamaz. Deneme süresi her bir CİHAZ için yalnızca bir (1) kere geçerlidir.
+- Bu sözleşme ve sahip olduğu lisans kullanım haklarını kısmen ya da tamamen 3. şahıslara devredemez.
+- YAZILIM'ı tüm ulusal ve uluslararası mevzuata, internet ve dijital bilgi teknolojilerinin kullanımına ilişkin kural ve yasalara aykırı olarak kullanamaz.
+- YAZILIM'ın telif haklarına zarar verebilecek, YAZILIM'ın çalışma faaliyetlerine zarar verecek; amaç dışı, hukuka aykırı işlemleri yapamaz veya bunları yapması için herhangi bir üçüncü şahısa izin veremez ve bu yöndeki bir fiile iştirak edemez.
+
+
+4.4 Ücretsiz Deneme Lisansı Kapsamında Sunulan Garanti
+
+4.4.1 Ücretsiz Deneme Lisansı kapsamında aşağıdaki koşullar garanti edilir:
+
+Ücretsiz deneme lisansı kapsamı süresi boyunca KULLANICI'ya herhangi bir garanti sunulmamaktadır.
+
+
+4.4.2 Ücretsiz Deneme Lisansı kapsamında aşağıdaki koşullar hiçbir şekilde garanti edilemez:
+
+- YAZILIM'ın çalışma kapsamı içinde yer alan üçüncü şahıs yazılımlarının lisans ve garanti koşulları, söz konusu yazılımların orijinal sözleşmelerine/koşullarına tabidir. LLReminder.online bu yazılımlara ilişkin bir garanti taahüdü vermez.
+- YAZILIM'ın dijital olarak sağlanan dökümantasyonuyla uyum içinde olması veya tanımlanan işlevleri en iyi şekilde yerine getirmesi için azami özeni gerektirmektedir. LLReminder.online, YAZILIM'ın kusursuz, hatasız, mükemmel olduğu ve kullanıcının özel ihtiyaçlarını tamamen karşılayacağı şeklinde bir iddia ve taahhütte bulunmaz.
+- LLReminder.online YAZILIM'ın kesintisiz olarak 7 gün 24 saat hizmet sunacağına dair bir garanti vermemekte ve bu konuda herhangi bir hizmet seviyesi taahüdünde bulunmamaktadır.
+- LLReminder.online, YAZILIM'ın her türlü kullanımı nedeniyle ortaya çıkabilecek maddi, manevi, hukuki, mali sonuçlardan ve kazanç kaybı gibi doğrudan ya da dolaylı zararlardan hiçbir biçimde sorumlu değildir. Yazılımın kullanılması ile ilgili olarak öne sürülecek taleplerde LLReminder'in mali sorumluluğu yoktur.
+
+
+5. LLREMİNDER ÜCRETLİ LİSANS KULLANIMI KOŞULLARI
+
+5.1 LLReminder Ücretli Lisansı
+
+LLReminder.online, YAZILIM'ı kullanabilmek için bir lisansa sahip olmayı deneme lisansı kapsamı dışındaki her KULLANICI'ya tabi tutar. LLReminder lisansları yıllık olarak satılmaktadır ve LLReminder.online/satin-al sayfasından edinilebilir.
+
+
+5.2 LLReminder Ücretli Lisansı Niteliği
+
+Lisansı satın aldığınız zaman LLReminder.online sizden YAZILIM üzerinden erişebileceğiniz CİHAZ KİMLİĞİ'nizi ister ve bu kimlik kullanılarak CİHAZ'ınıza özel bir yıllık kullanım lisansı oluşturulur. Bu lisans yalnızca bir bilgisayar için geçerlidir ve bilgisayar işletim sistemi üzerinde formatlama, sıfırlama gibi işlemler yapılması gibi durumlarda geçerliliğini kaybedebilir. LLReminder.online bu tarz durumlarda sizin için yeni bir lisans oluşturacaktır.
+
+
+5.3 LLReminder Ücretli Lisansının Kapsamı
+
+YAZILIM'ın kullanma lisansı her zaman işbu sözleşme koşullarına tabidir. Lisans, YAZILIM'ın bu sözleşmede belirtilen hak ve sınırlar çerçevesinde bilgisayara yüklenmesini, çalıştırılmasını, kullanılmasını ve hizmetlerinden yararlanılmasını kapsar. KULLANICI tarafından kullanma lisansı koşullarına, işbu sözleşmeye ve LLReminder.online/yasal adresindeki diğer yasal bilgilendirmelere aykırı eylemlerin gerçekleştirilmesi durumunda LLReminder.online kullanımdan men etme, sözleşmeyi fesh etme ve kullanıcı hizmetlerini durdurma haklarına sahiptir.
+
+KULLANICI:
+- YAZILIM'ı bir (1) yıl boyunca sözleşme kapsamı dışına çıkmayacak şekilde istediği şekilde, istediği amaçlar çerçevesinde kullanabilir.
+- LLReminder.online tarafından sunulan ONLİNE DESTEK hizmetinden yararlanabilir. Lisanslı kullanıcılar için öncelik tanınmaktadır.
+- YAZILIM'ın hem öğrenci veya öğretmen versiyonunu kullanabilir.
+
+KULLANICI:
+- Satın almış olduğu lisansı başka bir CİHAZ'da kullanamaz. Lisans sadece bir CİHAZ için geçerlidir.
+- Bu sözleşme ve sahip olduğu lisans kullanım haklarını kısmen ya da tamamen 3. şahıslara devredemez.
+- YAZILIM'ı tüm ulusal ve uluslararası mevzuata, internet ve dijital bilgi teknolojilerinin kullanımına ilişkin kural ve yasalara aykırı olarak kullanamaz.
+- YAZILIM'ın telif haklarına zarar verebilecek, YAZILIM'ın çalışma faaliyetlerine zarar verecek; amaç dışı, hukuka aykırı işlemleri yapamaz veya bunları yapması için herhangi bir üçüncü şahısa izin veremez ve bu yöndeki bir fiile iştirak edemez.
+
+
+5.4 LLReminder Ücretli Lisansı Kapsamında Sunulan Garanti
+
+5.4.1 LLReminder Ücretli Lisansı almanız durumunda aşağıdaki koşullar için garanti sağlanır:
+
+- LLReminder programının amacı çerçevesinde kullanımı konusunda yaşanan sorunlar
+- Lisansı kullandığınız bilgisayarın formatlanması durumunda kaybettiğiniz lisansın geri sağlanması
+
+
+5.4.2 LLReminder Ücretli Lisansı almanız durumunda aşağıdaki koşullar hiçbir şekilde garanti edilemez:
+
+- YAZILIM'ın çalışma kapsamı içinde yer alan üçüncü şahıs yazılımlarının lisans ve garanti koşulları, söz konusu yazılımların orijinal sözleşmelerine/koşullarına tabidir. LLReminder.online bu yazılımlara ilişkin bir garanti taahüdü vermez.
+- YAZILIM'ın dijital olarak sağlanan dökümantasyonuyla uyum içinde olması veya tanımlanan işlevleri en iyi şekilde yerine getirmesi için azami özeni gerektirmektedir. LLReminder.online, YAZILIM'ın kusursuz, hatasız, mükemmel olduğu ve kullanıcının özel ihtiyaçlarını tamamen karşılayacağı şeklinde bir iddia ve taahhütte bulunmaz.
+- LLReminder.online YAZILIM'ın kesintisiz olarak 7 gün 24 saat hizmet sunacağına dair bir garanti vermemekte ve bu konuda herhangi bir hizmet seviyesi taahüdünde bulunmamaktadır.
+- LLReminder.online, YAZILIM'ın her türlü kullanımı nedeniyle ortaya çıkabilecek maddi, manevi, hukuki, mali sonuçlardan ve kazanç kaybı gibi doğrudan ya da dolaylı zararlardan hiçbir biçimde sorumlu değildir. Yazılımın kullanılması ile ilgili olarak öne sürülecek taleplerde LLReminder'in mali sorumluluğu yalnızca KULLANICI'nın ödemiş olduğu yıllık yazılım lisansı ücreti ile sınırlıdır.
+
+
+6. YAZILIM TELİF HAKLARI
+
+YAZILIM'ın, YAZILIM tarafından sunulan hizmetin ve LLReminder.online web sitesinde sunulan her türlü içeriğin/hizmetin telif/mülkiyet hakları LLReminder.online'a ait olup; Fikir ve Sanat Eserleri Kanunu, Türk Ceza Kanunu, Creavite Commons ve ABD Dijital Binyıl Telif Hakkı Yasası ile korunma altına alınmıştır.
+KULLANICI veya herhangi bir 3. şahıs başka yazılımlar ile ara işlerliği gerçekleştirmek amacı ile olsa bile LLReminder.online'ın izni olmaksızın YAZILIM'ın kaynak kodunu, kısmen veya tamamen parçalara ayıramaz, sırasını bozamaz ve sair surette yararlanamaz. YAZILIM'a ilişkin materyalin ve dökümanların değiştirilmesine hiçbir şekilde izin verilmemektedir. LLReminder, LLReminder.online ve diğer belirtici logo ve unsurların kaldırılması, gizlenmesi veya değiştirilmesi, başka amaçlarla kullanılması, kopya edilmesi ve çoğaltılması da telif haklarının ihlali anlamına gelir. 
+
+
+7. SÜRÜM/VERSİYON DEĞİŞİMİ VE GÜNCELLEMELER
+
+LLReminder.online önceden haber vermeksizin YAZILIM'da ve dökümanlarında değişiklikler yapma, yeni versiyon ve sürümlerini çıkarma haklarına sahiptir. LLReminder.online eski ve/veya farklı versiyonla/sürümle girilen veya elde edilen bilgilerin yeni versiyon/sürümle de işlenebileceği güvencesini vermez. Ancak ücretli lisansa sahip kullanıcılar için LLReminder bu geçiş sürecinde yaşanabilecek lisans sorunlarında koşulsuz destek sunacaktır.
+LLreminder.online programın eski sürüm ve versiyonları için garanti vermez. KULLANICI'dan yazılımın en yeni versiyonunu kullanmaları beklenmektedir.
+
+
+8. EK SÖZLEŞME KOŞULLARI
+
+LLReminder.online bu sözleşmeyi ve diğer tüm yasal bilgilendirmeleri ve sözleşmeleri haber vermeksizin değiştirme hakkına sahiptir.
+
+
+8.1 Sözleşme Süresi ve Fesih
+
+a) İşbu Sözleşme feshedilinceye kadar geçerlidir.
+b) Sözleşme ayrıca Lisans Sahibi tüm kopyaları dahil Lisanslı Yazılımı ve belgelerini imha ederek feshetmeyi seçtiğinde de fesholur.
+c) Lisans Sahibinin işbu Sözleşmenin herhangi bir hüküm veya koşulan uymaması durumunda Lisans Veren bu Sözleşmeyi feshedebilir. Feshi takiben, Lisans Sahibi kendi mülkiyeti ve kontrolü altındaki Lisanslı Yazılımı ve kopyalarını imha eder.
+
+
+8.2 Geçerli Kanun (Türkiye Dışı KULLANICI'lar İçin)
+Lisanslı Yazılımla ilgili lisans, Türkiye'de yürürlükte olan kanunlar tarafından yönetilir.
+
+
+
+8.3 Sözleşme Kabulü
+
+LLReminder yazılımını bilinçli veya bilinçsiz olarak; kullandığınız, hizmetlerinden yararlandırdığınız ve/veya cihazınızda barındırdığınz sürece bu sözleşmeyi okumuş, hükümlerini anlamış ve kabul etmiş sayılacaksınız.
+
+
+8.4 DİKKAT
+
+LLREMINDER YAZILIMININ VE LLREMINDER.ONLINE WEB SITESININ "Zoom Video Communications, Inc." İLE HİÇBİR ŞEKİLDE BAĞLANTISI YOKTUR.
+
+
+-- Sözleşme Sonu --
+
+LLReminder.online
+info[at]llreminder.online
+LLReminder.online/yasal
+LLreminder.online/iletisim
+
+Sözleşmeyi online görüntüleyin: https://llreminder.online/llreminder-yazilim-lisans-kullanim-sozlesmesi/
+
+Sözleşme son güncellenme tarihi: 10:12:2020 - 09:47
