@@ -1,6 +1,5 @@
 <!-- Readme Dosyası Şablonu: https://github.com/othneildrew/Best-README-Template -->
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -27,7 +26,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">İçindekiler Tablosu</h2></summary>
   <ol>
@@ -46,7 +44,7 @@
         <li><a href="#kaynak-kodunu-düzenleme">Kaynak Kodunu Düzenleme</a></li>
 </ul>
     </li>
-    <li><a href="#sorun-bildirme-ve-özellik-talep-etme">Sorun Bildirme ve Özellik Talep Etme</a></li>
+    <li><a href="#katkı-sağlama-ve-sorun-bildirme">Katkı Sağlama ve Sorun Bildirme</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#iletişim">İletişim</a></li>
   </ol>
@@ -139,16 +137,9 @@ Bir sorun yaşamanız durumunda Issue oluşturabilirsiniz.
 Programı düzenleyip yayınlamanız durumunda bu repo'ya bir bağlantı vermeniz bizi sevindirir.
 
 
-## Sorun Bildirme ve Özellik Talep Etme
+## Katkı Sağlama ve Sorun Bildirme
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+LLReminder programı için yapacağınız her katkıya açığız. Sorunları bildirmek için Issues sayfasını kullanabilirsiniz. Programda değişiklik yapmak için ise Fork yapıp değişikliklerinizi gönderebilirsiniz.
 
 
 <!-- LICENSE -->
