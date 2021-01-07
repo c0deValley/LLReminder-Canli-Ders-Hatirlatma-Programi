@@ -32,29 +32,29 @@
   <summary><h2 style="display: inline-block">İçindekiler Tablosu</h2></summary>
   <ol>
     <li>
-      <a href="#Program-hakkında">Program Hakkında</a>
+      <a href="#program-hakkında">Program Hakkında</a>
       <ul>
         <li><a href="#program-özellikleri-öğrenci-versiyonu">Program Özellikleri</a></li>
+        <li><a href="#programın-kurulumu">Programın Kurulumu</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Kaynak Kodunu Kullanma</a>
+      <a href="#kaynak-kodunu-kullanma">Kaynak Kodunu Kullanma</a>
       <ul>
-        <li><a href="#prerequisites">Gereksinimler</a></li>
-        <li><a href="#installation">Kaynak Kodunu Anlama</a></li>
-        <li><a href="#installation">Programı Derleme</a></li>
+        <li><a href="#gereksinimler">Gereksinimler</a></li>
+        <li><a href="#programı-anlama">Programı Anlama</a></li>
+        <li><a href="#kaynak-kodunu-düzenleme">Kaynak Kodunu Düzenleme</a></li>
 </ul>
     </li>
-    <li><a href="#installation">Getirilmesi Planlanan Özellikler</a></li>
-    <li><a href="#installation">Sorun Bildirme ve Özellik Talep Etme</a></li>
+    <li><a href="#sorun-bildirme-ve-özellik-talep-etme">Sorun Bildirme ve Özellik Talep Etme</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">İletişim</a></li>
+    <li><a href="#iletişim">İletişim</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## Program Hakkında
 
 <p align="center">
@@ -76,47 +76,67 @@ LLReminder Öğrenci ve Öğretmen olmak üzere iki farklı versiyondan oluşur 
 
 [Daha fazla detay için LLReminder web sitesini ziyaret edebilirsiniz](https://LLReminder.online/ "LLReminder Web Sitesi")
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Programın Kurulumu
 
-To get a local copy up and running follow these simple steps.
+Programı kurmak için bu repo'nun Relases kısmından veya [LLReminder web sitseinden](http://llreminder.online/indir) ulaşabileceğiniz "LLReminder Setup.exe" dosyasını kullanabilirsiniz. Bu dosya LLReminder'ı sunucudan indirerek bilgisayarınızdaki mevcut kullanıcının Belgelerim klasörüne kuracak, masaüstü kısayolu oluşturacak ve deneme lisansı oluşturacaktır. 
+Programın belgeler klasörüne kurulacak şekilde yapmamızın sebebi False Detection durumunu önlemek. Antivirüs yazılımları Autoit ile yazılmış programları genelde zararlı yazılım olarak görmekte. LLReminder programı şuana kadar çok defa False Detection durumuna maruz kaldı, bunların büyük bir kısmını antivirüs yazılım şirketlerinden yeni bir analiz talep ederek çözebildik ancak yine de programın false detection olarak tespit edilme ihtimalini azaltabilmek adına LLReminder programının belgeler klasörüne kurulmasını sağladık. Eğer programı silmek isterseniz Setup.exe dosyasını tekrardan açmanız yeterli olacaktır. Eğer program zaten yüklüyse kurulum sihirbazı programı kaldırmanızı sağlayacaktır.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+Programın kurulumuyla ilgili daha fazla bilgiye [LLReminder Web Sitesi Destek Sayfası](http://llreminder.online/destek)'nda bulunan makalelerden ulaşabilirsiniz.
 
 
+## Kaynak Kodunu Kullanma
 
-<!-- USAGE EXAMPLES -->
-## Usage
+LLReminder'ı ilk olarak ticari olarak geliştirmemize rağmen programlama bilgimizin programın geleceği için yeterli olmayacağını bildiğimizden dolayı açık kaynak hale çevirdik. Böylece programın kaynak kodunu kendi amaçlarınıza göre değiştirerek programı GNU General Public License v3.0 kapsamında istediğiniz şekilde kullanabilirsiniz.
+Program Autoit programlama dili ile yazıldı ve programı yapmaya kalkışmadan önce bu programlama dili ile ilgili pek bir bilgim yoktu. Bundan dolayı kaynak kodu içerisinde mantık hataları veya eksikler olabilir, bilginize. Her türlü katkılarınıza açığız.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Gereksinimler
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* []()Autoit (SciTE Script Editor ve KODA Form Designer kullanılacak.)
+
+Ayrıca bu repo'da bulunan "Kaynak Kodları" klasörü ve "Program/v1.0" klasörü gerekmektedir.
+
+### Programı Anlama
+
+Programın kaynak kodunu kullanabilmek için ilk olarak programın çalışma şeklini anlamanız gerekmektedir.
+LLReminder'ın program dosyaları bu repo'nun "Program/v1.0" klasöründe gözüktüğü gibidir. Programı anlamak için bu klasörü inceleyelim;
+
+Bu klasörde bulunan "LLReminder Setup.exe" dosyası programın tek bir exe dosyası ile kurulabilmesi için oluşturulmuştur. Bu exe dosyası çalıştırıldığı zaman ilk olarak programın zaten yüklü olup olmadığını kontrol eder. Eğer program zaten yüklü ise kullanıcıya programı kaldırmak veya güncellemek olmak üzere iki seçenek sunar. Eğer program yüklü değil ise programı yükler. Programın yüklenmesi şu şekilde gerçekleşir; İlk olarak sunucudan LLReminder'ın zip olarak sıkıştırılmış bir hali indirilir, bu zip dosyası bilgisayarın Belgeler klasörüne dışa aktarılır, eğer program ilk defa yükleniyorsa deneme lisansı başlatılır ve son olarak programın sürümü kayıt defterine yazılır.
+
+LLReminder klasörünün içine bakacak olursak;
+- LLReminder.exe ders ekleme, ders programını düzenleme ve programı başlatma gibi çeşitli özelliklerin bulunduğu ana programdır. Bu program otomasyon işlemini gerçekleştirmez. Bu program ders ekleme, ders programını düzenleme ve otomasyon işlemini başlatmayı sağlar. Otomasyon işlemi bu program üzerinden başlatıldıktan sonra bu program kapatılabilir. Dersler ve ders programı .ini dosyası olarak /core/veriler klasörünün içine oluşturulur. 
+
+LLReminder klasörünün içindeki core klasörünün içindeki dosyalara ve klasörlere bakacak olursak;
+- LLReminderDersHatirlatici.exe dosyası programın arka planda çalışan ve otomasyon fonksiyonununu gerçekleştiren dosyadır. LLReminder.exe programından programı çalıştır butonuna basıldığı zaman bu dosya çalıştırılır. Bu dosya arkaplanda çalıştığı sürece ders otomasyonu işlemi gerçekleşir.
+- LLReminderHizliBaslangicRehberi.pdf dosyası LLReminder programının kullanımını ve özelliklerini anlatan bir kullanım kılavuzu ve hızlı başlangıç rehberidir.
+- LisansSozlesmesi.txt dosyası programın lisans sözleşmesini barındırır. Bu dosya LLReminder.exe programındaki Program Hakkında sayfasında gözükür.
+- "font" klasörü programda kullanılan Trenda yazı tipini barındırır.
+- "gorseller" klasörü programda kullanılan görselleri barındırır.
+- "veriler" klasörü LLReminder.exe programında oluşturulan derslerin ve ders programının tutulduğu klasördür. Aynı zaman LLReminderDersHatirlatici.exe programı açıldığı zaman ilk olarak buradaki veriyi okur, daha sonra otomasyon işlemine geçer.
+
+Programın dosya sistemi bu şekilde. Tabiki de en iyisi bu değil, iyileştirmeler yapmak mümkün.
 
 
+## Kaynak Kodunu Düzenleme
 
-<!-- ROADMAP -->
-## Roadmap
+Programın kaynak kodunu istediğiniz şekilde lisans kapsamında düzenleyebilirsiniz.
+Bunun için dikkat etmeniz gereken birkaç nokta bulunmaktadır.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+Programın kaynak kodları bu repo'nun "Kaynak Kodları" klasöründe bulunmaktadır. Bu klasörün içinde programın kendi kaynak kodları ve programa include edilen birkaç kaynak kodu bulunmaktadır. Ayrıca bunlara ek olarak KODA Form Designer kodları da eklenmiştir. Eğer görsel arayüzde değişiklik yaparsanız bunu kaynak koda yansıtmanız gerektiğini unutmayın.
 
+Programın kaynak kodlarını düzenlemek için şunları yapmanız gerekir;
+İlk olarak Includes klasöründe bulunan "Startup.au3", "license.au3" ve "Includes" klasörünü "Program Kaynak Kodları" klasörünün içine atın.
+Daha sonra "Program/v1.0" klasöründe bulunan core klasörünü içindeki LLReminderDersHatirlatici.exe hariç olmak üzere Program Kaynak Kodları klasörünün içine atın.
 
+Böylece programın kaynak kodlarını düzenleyebilirsiniz.
+LLReminder (Ana Program).au3 => LLReminder.exe dosyasının kaynak kodudur.
+LLReminder (Arkaplanda Çalışan Program).au3 => LLReminderDersHatirlatici.exe dosyasının kaynak kodudur.
+LLReminder Kurulum Sihirbazı.au3 => LLReminderSetup.exe dosyasının kaynak kodudur.
+
+Not: LLReminder Kurulum Sihirbazını derlerken tasarımda bulunan resmin programın içine gömülebilmesi için "/Görsel Arayüz Dosyaları/Kurulum Sihirbazı Arayüz Dosyaları" klasörü içinde bulunan foto.jpg dosyasınn "LLReminder Kurulum Sihirbazı.au3" dosyası ile aynı dizin içinde bulunması gerekmektedir.
+
+Bu noktalara dikkat ederek programın kaynak kodunu istediğiniz şekilde düzenleyebilirsiniz.
+Bir sorun yaşamanız durumunda Issue oluşturabilirsiniz.
+Programı düzenleyip yayınlamanız durumunda bu repo'ya bir bağlantı vermeniz bizi sevindirir.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -134,41 +154,15 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## İletişim
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+* []()LLReminder web sitesi - [LLReminder.online](https://LLReminder.online/)
+* []()LLReminder e-posta adresi - [e-posta](mailto:info@llreminder.online)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+* []()Ahmet Emin Dilben e-posta adresi - me[at]ahmetemindilben[.]com[.]tr
+* []()Süleyman Umut Dursun e-posta adresi - suleymanumutkurt[at]gmail[.]com
