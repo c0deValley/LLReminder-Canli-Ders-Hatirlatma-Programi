@@ -29,34 +29,34 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">İçindekiler Tablosu</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Program Hakkında</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Program Özellikleri</a></li>
+        <li><a href="#built-with">Çalışma Şekli</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Kaynak Kodunu Kullanma</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        <li><a href="#prerequisites">Gereksinimler</a></li>
+        <li><a href="#installation">Kaynak Kodunu Anlama</a></li>
+        <li><a href="#installation">Programı Derleme</a></li>
+</ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#installation">Getirilmesi Planlanan Özellikler</a></li>
+    <li><a href="#installation">Sorun Bildirme ve Özellik Talep Etme</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contact">İletişim</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Program Hakkında
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
