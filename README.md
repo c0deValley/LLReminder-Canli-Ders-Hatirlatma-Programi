@@ -138,8 +138,8 @@ Bu noktalara dikkat ederek programın kaynak kodunu istediğiniz şekilde düzen
 Bir sorun yaşamanız durumunda Issue oluşturabilirsiniz.
 Programı düzenleyip yayınlamanız durumunda bu repo'ya bir bağlantı vermeniz bizi sevindirir.
 
-<!-- CONTRIBUTING -->
-## Contributing
+
+## Sorun Bildirme ve Özellik Talep Etme
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
