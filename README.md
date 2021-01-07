@@ -4,22 +4,24 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Görseller/LLReminderlogo.jpg" alt="Logo" width="100" height="26">
+    <img src="Görseller/LLReminderlogo.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">LLReminder - Canlı Ders Hatırlatma Programı</h3>
 
   <p align="center">
-    project_description
+    LLReminder, Zoom üzerinden gerçekleştirilen derslere otomatik olarak katılmanızı sağlayacak bir otomasyon programıdır. Haftanın 7 günü, 24 saat boyunca sınırsız sayıda ders eklenebilir ve bu derslerin otomatikleştirilmesi sağlanabilir. Zoom otomasyon işlemi için hem ID ve PASS hem de URL ekleyebilmek mümkündür.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https:/LLReminder.online/"><strong>LLReminder Web Sitesi »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name/issues">Kaynak Kodu</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Sorun Bildir</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Özellik Talep Et</a> 
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">İletişim</a>  
   </p>
 </p>
 
