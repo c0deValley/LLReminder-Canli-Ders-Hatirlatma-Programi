@@ -32,10 +32,9 @@
   <summary><h2 style="display: inline-block">İçindekiler Tablosu</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Program Hakkında</a>
+      <a href="#Program-Hakinda">Program Hakkında</a>
       <ul>
         <li><a href="#built-with">Program Özellikleri</a></li>
-        <li><a href="#built-with">Çalışma Şekli</a></li>
       </ul>
     </li>
     <li>
@@ -58,18 +57,22 @@
 <!-- ABOUT THE PROJECT -->
 ## Program Hakkında
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+<img src="Görseller/programArayuzu.png" alt="Program Arayüzü">
+</p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+LLReminder Öğrenci ve Öğretmen olmak üzere iki farklı versiyondan oluşur ve derslerin daha kolay işlenebilmesi için Zoom programının otomatize edilmesini sağlar. Programın öğrenci versiyonunun ilk kararlı sürümü tamamlanmış ve yayınlanmıştır. Öğretmen versiyonunun ise şuanlık tamamlanması planlanmamaktadır.
 
 
-### Built With
+### Program Özellikleri (Öğrenci Versiyonu)
 
-* []()
-* []()
-* []()
+* []()Haftanın 7 günü, 24 saat boyunca sınırsız sayıda ders eklenebilir.
+* []()Dersler Zoom ID ve PASS şeklinde veya Davet URL'si olarak eklenebilir.
+* []()Ders programı kolaylıkla ayarlanabilir ve sonradan değiştirilebilir.
+* []()Dersinizin saati geldiği zaman arkaplanda çalışan program bir bildirim gösterir. Bu bildirim ile derse katılmak isteyip istemediğiniz sorulur. Katılmak istemeniz durumunda derse otomatik bir şekilde giriş yapılır. Katılmak istemezseniz ise bir sonraki dersin gelmesi beklenir.
+* []()Otomasyon işlemi şu şekilde işlemektedir; eğer kullanıcı Zoom ID ve Pass bilgisi ile derse girilmesini istediyse LLReminder zoom.us/j/<ders ID bilgisi> adresini açar. Bu adres Zoom programına yönlendirir ve dersin şifresini sorar. LLReminder bu şifre giriş ekranının açıldığını tespit ettiği zaman şifreyi yazar ve derse otomatik bir şekilde giriş yapmış olur. Eğer kullanıcı ID ve PASS yerine direkt olarak URL girmiş ise o zaman program sadece URL'ye giriş yapar.
+* []()LLReminder ile sadece derslere değil, Zoom üzerinden gerçekleşen her türlü meeting'e katılmak mümkündür. Hem bireysel hem de konferans şeklinde gerçekleşen etkinliklere katılım test edilmiştir.
+* []()Bu temel özelliklerin yanı sıra LLReminder programına bazı ek özellikler eklenmiştir. Üst menüde bulunan Ayarlar>Dosya Bakımı kısmından bütün dersleri silmek veya bütün ders programını silmek mümkündür. Ayarlar>Yazılım Ayarları kısmından programın bilgisayar başlangıcında çalıştırılması sağlanabilir. Ayarlar>Güncelleme Kontrolü kısmından yeni bir güncelleme olup olmadığı kontrol edilebilir. Aynı şekilde bu güncelleme kontrolü işlemi haftanın üç günü boyunca arkaplanda da kontrol edilmektedir. Ek olarak program lisans sistemine sahiptir. Program başta ticari olarak geliştirildiğinden dolayı lisans sistemi kullanılmıştır.
 
 
 
