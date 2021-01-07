@@ -32,9 +32,9 @@
   <summary><h2 style="display: inline-block">İçindekiler Tablosu</h2></summary>
   <ol>
     <li>
-      <a href="#Program-Hakinda">Program Hakkında</a>
+      <a href="#Program-hakkında">Program Hakkında</a>
       <ul>
-        <li><a href="#built-with">Program Özellikleri</a></li>
+        <li><a href="#program-özellikleri-öğrenci-versiyonu">Program Özellikleri</a></li>
       </ul>
     </li>
     <li>
@@ -74,7 +74,7 @@ LLReminder Öğrenci ve Öğretmen olmak üzere iki farklı versiyondan oluşur 
 * []()LLReminder ile sadece derslere değil, Zoom üzerinden gerçekleşen her türlü meeting'e katılmak mümkündür. Hem bireysel hem de konferans şeklinde gerçekleşen etkinliklere katılım test edilmiştir.
 * []()Bu temel özelliklerin yanı sıra LLReminder programına bazı ek özellikler eklenmiştir. Üst menüde bulunan Ayarlar>Dosya Bakımı kısmından bütün dersleri silmek veya bütün ders programını silmek mümkündür. Ayarlar>Yazılım Ayarları kısmından programın bilgisayar başlangıcında çalıştırılması sağlanabilir. Ayarlar>Güncelleme Kontrolü kısmından yeni bir güncelleme olup olmadığı kontrol edilebilir. Aynı şekilde bu güncelleme kontrolü işlemi haftanın üç günü boyunca arkaplanda da kontrol edilmektedir. Ek olarak program lisans sistemine sahiptir. Program başta ticari olarak geliştirildiğinden dolayı lisans sistemi kullanılmıştır.
 
-
+[Daha fazla detay için LLReminder web sitesini ziyaret edebilirsiniz](https://LLReminder.online/ "LLReminder Web Sitesi")
 
 <!-- GETTING STARTED -->
 ## Getting Started
