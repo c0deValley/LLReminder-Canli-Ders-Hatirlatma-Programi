@@ -15,13 +15,13 @@
     <a href="https:/LLReminder.online/"><strong>LLReminder Web Sitesi »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Kaynak Kodu</a>
+    <a href="https://github.com/CodeWALLEY/LLReminder-Canli-Ders-Hatirlatma-Programi/tree/main/Kaynak%20Kodlar%C4%B1">Kaynak Kodları</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Sorun Bildir</a>
+    <a href="https://github.com/CodeWALLEY/LLReminder-Canli-Ders-Hatirlatma-Programi/issues">Sorun Bildir</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Özellik Talep Et</a> 
+    <a href="https://github.com/CodeWALLEY/LLReminder-Canli-Ders-Hatirlatma-Programi/issues">Özellik Talep Et</a> 
     ·
-    <a href="https://github.com/github_username/repo_name/issues">İletişim</a>  
+    <a href="mailto:info@llreminder.online">İletişim</a>  
   </p>
 </p>
 
