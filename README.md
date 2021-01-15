@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://llreminder.online/">
     <img src="Görseller/LLReminderlogo.jpg" alt="Logo">
   </a>
 
